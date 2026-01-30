@@ -1,0 +1,1 @@
+pydantic[dotenv]>=2.0
