@@ -71,5 +71,5 @@ threshold, based on aggregated market signals.
 
 The data/ folder is intentionally ignored by Git and meant to remain local.
 
-#Example usage
+Example usage
 python -m jobad_radar.cli add
